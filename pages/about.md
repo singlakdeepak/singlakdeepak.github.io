@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Deepak Singla is a senior undergarduate studying Electrical Engineering (Power & Automation) at Indian Institute of Technology, Delhi.
+description: Deepak Singla is a senior undergraduate studying Electrical Engineering (Power & Automation) at Indian Institute of Technology, Delhi.
 ---
 
 <!-- Karl Broman is Professor in the
