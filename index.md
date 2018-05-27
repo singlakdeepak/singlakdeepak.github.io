@@ -7,15 +7,15 @@ description: Deepak Singla is a senior undergarduate studying Electrical Enginee
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/abc_cv.pdf">cv</a></li>
+          <!-- <li><a href="{{ BASE_PATH }}/assets/abc_cv.pdf">cv</a></li> -->
           <li><a href="https://github.com/singlakdeepak">github</a></li>
-          <li><a href="http://abc.org/blog">blog</a></li>
+          <!-- <li><a href="http://abc.org/blog">blog</a></li> -->
           <li><a href="https://twitter.com/singlade">@singlade</a></li>
       </ul>
   </div>
 </div>
 
-<table class="wide">
+<!-- <table class="wide">
 <tr>
   <td class="left">
     <a href="pages/publpics/iplotCorr.html">
@@ -41,7 +41,7 @@ description: Deepak Singla is a senior undergarduate studying Electrical Enginee
     </a>
   </td>
 </tr>
-</table>
+</table> -->
 
 <div class="navbar">
   <div class="navbar-inner">

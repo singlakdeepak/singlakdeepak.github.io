@@ -1,20 +1,20 @@
 ---
 layout: frontpage
-title: Karl Broman
+title: Deepak Singla
 ---
 
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="{{ BASE_PATH }}/assets/broman_cv.pdf">cv</a></li>
-          <li><a href="https://github.com/kbroman">github</a></li>
-          <li><a href="http://kbroman.org/blog">blog</a></li>
-          <li><a href="https://twitter.com/kwbroman">@kwbroman</a></li>
+          <!-- <li><a href="{{ BASE_PATH }}/assets/abc_cv.pdf">cv</a></li> -->
+          <li><a href="https://github.com/singlakdeepak">github</a></li>
+<!--           <li><a href="http://kbroman.org/blog">blog</a></li> -->
+          <li><a href="https://twitter.com/singlade">@singlade</a></li>
       </ul>
   </div>
 </div>
 
-<table class="wide">
+<!-- <table class="wide">
 <tr>
   <td class="left">
     <a href="pages/publpics/rqtlexper_fig1.html">
@@ -96,7 +96,7 @@ title: Karl Broman
   <td class="right">
   </td>
 </tr>
-</table>
+</table> -->
 
 <div class="navbar">
   <div class="navbar-inner">
