@@ -1,7 +1,7 @@
 ---
 layout: page
 title: about
-description: Deepak Singla is a senior undergraduate studying Electrical Engineering (Power & Automation) at Indian Institute of Technology, Delhi.
+description: Deepak Singla is a recent graduate (May 2018) from Indian Institute of Technology, Delhi. He completed his B.Tech in Electrical Engineering (Power & Automation).
 ---
 
 <!-- Karl Broman is Professor in the
@@ -38,7 +38,9 @@ quantitative trait. Recently he has been focusing on the development
 of interactive data visualizations for high-dimensional genetic data;
 see his [R/qtlcharts package](http://kbroman.org/qtlcharts) and
 his [D3 examples](http://www.biostat.wisc.edu/~kbroman/D3). -->
-Deepak Singla is a senior undergraduate studying Electrical Engineering (Power & Automation) at [Indian Institute of Technology, Delhi](www.iitd.ac.in). He is interested in delving deep into the concepts related to neurosciece and brain research. 
+Deepak Singla is a recent graduate (May 2018) from [Indian Institute of Technology, Delhi](www.iitd.ac.in). He completed his B.Tech in Electrical Engineering (Power & Automation) with accolades. Although his undergraduate degree is in Power & Automation, he found his interest in concepts related to neuroscience and brain research. 
+
+
 
 <!-- [curriculum vitae ![CV as pdf](icons16/pdf-icon.png)]({{ BASE_PATH }}/assets/broman_cv.pdf)<br/> -->
 [orcid](http://orcid.org): [0000-0001-7699-7079](http://orcid.org/0000-0001-7699-7079)<br/>
